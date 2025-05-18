@@ -34,7 +34,6 @@ python3 grc.py
 - `/tools`: destination folder for clones
 
 ![grclogo3](https://github.com/user-attachments/assets/7acd5f58-3f52-4b07-820f-f5b2c6d287f9)
-![grclogo4](https://github.com/user-attachments/assets/ef72faac-9c0d-4c25-80a8-4fdf32e680e9)
 
 ---
 
