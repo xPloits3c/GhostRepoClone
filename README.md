@@ -1,6 +1,7 @@
 # GhostRepoClone
 
-**GhostRepoClone** is a Python script that allows you to quickly clone GitHub repositories using a simple numeric menu. It supports pre-configured repositories, custom repositories and even direct GitHub search!
++   **GhostRepoClone** is a Python script that allows you to quickly clone GitHub repositories using a simple numeric menu.
++   It supports pre-configured repositories, custom repositories and even direct GitHub search!
 
 ## Features
 
@@ -25,10 +26,11 @@ python main.py
 
 ## Structure
 
-- `main.py`: main script
+- `grc.py`: main script
 - `repos.json`: list of repositories
 - `/tools`: destination folder for clones
 
 ---
 
 Created with passion by xPloits3c.
+
