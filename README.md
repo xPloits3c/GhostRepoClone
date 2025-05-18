@@ -11,12 +11,15 @@
 - Persistent saving in `repos.json`
 - Updating already installed tools
 
+![grclogo1](https://github.com/user-attachments/assets/22082e39-898a-4a87-a035-7e0e64566a22)
+
 ## Usage
 
 ```bash
 pip install -r requirements.txt
 python3 grc.py
 ```
+![grclogo2](https://github.com/user-attachments/assets/8448a2fd-f358-439f-b245-1573cfe48f15)
 
 ## Requirements
 
@@ -29,6 +32,9 @@ python3 grc.py
 - `grc.py`: main script
 - `repos.json`: list of repositories
 - `/tools`: destination folder for clones
+
+![grclogo3](https://github.com/user-attachments/assets/7acd5f58-3f52-4b07-820f-f5b2c6d287f9)
+![grclogo4](https://github.com/user-attachments/assets/ef72faac-9c0d-4c25-80a8-4fdf32e680e9)
 
 ---
 
