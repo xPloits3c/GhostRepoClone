@@ -15,7 +15,7 @@
 
 ```bash
 pip install -r requirements.txt
-python main.py
+python3 grc.py
 ```
 
 ## Requirements
